@@ -26,7 +26,6 @@ Visit my website at [baytizzel.dev](https://baytizzel.dev)
 
 ## 🌐 find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betizzel-17bb46253)
 [![Website](https://img.shields.io/badge/baytizzel.dev-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://baytizzel.dev/)
 
 ---
