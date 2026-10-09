@@ -2,8 +2,6 @@ Hi, I'm a Cyber Engineer. I like doing systems-level programming, making fun and
 
 I sometimes mess with local ai (though they're mostly useless), also experimenting with FPGAs, and trying to getting better at soldering.
 
-Visit my website at [baytizzel.dev](https://baytizzel.dev)
-
 ---
 
 ## Stuff I know
